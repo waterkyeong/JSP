@@ -1,0 +1,4 @@
+1719977960430	Rename resource '16WebSocketChatWindow.jsp'
+1719977967955	Rename resource '16WebSocketMultiChatMain.jsp'
+1719977971686	Move 'MultiChatMain.jsp' to '16WebSocket'
+1719977973754	Move 'ChatWindow.jsp' to '16WebSocket'
